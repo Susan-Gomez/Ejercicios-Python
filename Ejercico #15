@@ -1,0 +1,4 @@
+//Ejercico #15
+palabra = input ("escribe algo")
+for x in range (11):
+    print (palabra)
