@@ -1,0 +1,3 @@
+//Ejercicio #4
+int saludo ="hello world"
+print (saludo)
