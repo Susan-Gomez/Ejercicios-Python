@@ -1,0 +1,5 @@
+//Ejercicio #9
+peso = input ("¿cuál es tu peso?")
+estatura = input ("¿cuál es tu estatura?")  
+imc = int(peso) / int(estatura)
+print("tu masa es",imc)
